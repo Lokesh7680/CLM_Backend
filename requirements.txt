@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyMuPDF  
+Fitz
+pymongo
+pydantic
+Pillow
+fastapi-mail
+python-dotenv
+bcrypt
